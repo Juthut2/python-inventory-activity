@@ -30,6 +30,8 @@ SANMPLE OUT PUT:<img width="874" height="1340" alt="carbon (3)" src="https://git
 
 NAME: JUSTIN TROY ROSALADA
 
-SCREENSHOT OF THE PROGRAM RUNNING (including adding, update, and view also has a error handling so that there isn't any duplicates): 
-<img width="444" height="848" alt="image" src="https://github.com/user-attachments/assets/b81c918b-8900-4ea7-ad95-69fc8696daf9" />
+SCREENSHOT OF THE PROGRAM RUNNING (including adding, update, and view also has a error handling so that there isn't any duplicates and won't update if there is no such item): 
+
+<img width="511" height="893" alt="image" src="https://github.com/user-attachments/assets/f5b64b2c-98df-41ba-8ad8-606df3989a48" />
+
 
